@@ -106,7 +106,7 @@ $(document).ready(function () {
 
 
 
-
+---
 3.  在長條圖加入另一個 series
 
 
